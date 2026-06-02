@@ -88,7 +88,7 @@ Through this project, I learned:
 
 ## 👨‍💻 Author
 
-Rana Paidi
+Pradeep Chinige
 
 ---
 
